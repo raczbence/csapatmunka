@@ -7,3 +7,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+h1{
+    color: white;
+    font-weight: bold;
+    text-shadow: 6px;
+}
+.fejezetek{
+    border: 2px solid black;
+    background-color: beige;
+}
